@@ -20,8 +20,8 @@ I am a Data Engineer and Analyst with over 4 years of hands-on experience buildi
 - How to architect better data systems
 
 📫 **How to reach me:**
-- [LinkedIn](https://www.linkedin.com/in/rajeshshahu)
-- 📧 Email: rajshahu4446@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/rajeshshahu)**
+- 📧 Email: **rajshahu4446@gmail.com**
 
 📝 **Certifications:**
 - **AWS Certified Data Engineer – Associate https://www.credly.com/badges/96161457-b35c-4406-ab29-366da57e0968/linked_in_profile** 
