@@ -7,7 +7,7 @@ I am a Data Engineer and Analyst with over 4 years of hands-on experience buildi
 😄 **My pronouns are:** He/Him/His
 
 🔭 **Projects**
-- An walmart retail data pipeline project titled 'Building a Retail Data Pipeline' ([GitHub Repository](https://github.com/RajeshShahu1/walmart-retail-data-pipeline)).
+- Walmart retail data pipeline ([GitHub Repository](https://github.com/RajeshShahu1/walmart-retail-data-pipeline)).
 - My capstone project for Salifort Motors, focusing on predicting employee retention using machine learning models.
 
 👯 **I'm open to:**
