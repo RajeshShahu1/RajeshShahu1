@@ -7,6 +7,7 @@ I am a Data Engineer and Analyst with over 4 years of hands-on experience buildi
 😄 **My pronouns are:** He/Him/His
 
 🔭 **Projects**
+- Reddit Data Engineering Pipeline | Developed an automated ETL pipeline using Reddit API, Airflow, Celery, PostgreSQL, S3, AWS Glue, Athena, and Redshift to extract, process, and analyze Reddit data for scalable analytics.
 - Walmart retail data pipeline ([GitHub Repository](https://github.com/RajeshShahu1/walmart-retail-data-pipeline)).
 - My capstone project for Salifort Motors, focusing on predicting employee retention using machine learning models.
 
