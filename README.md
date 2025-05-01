@@ -2,7 +2,7 @@
 
 ## Thanks for stopping by! Here's a little bit about myself...
 
-I am a Data Engineer and Analyst with over 4 years of hands-on experience building end-to-end data pipelines and business intelligence solutions. I have a strong foundation in AWS cloud infrastructure, Python, SQL, and big data platforms, with a focus on enabling data-driven decision-making.
+I am a Senior Data Engineer  with over 5+ years of hands-on experience building end-to-end data pipelines and business intelligence solutions. I have a strong foundation in AWS cloud infrastructure, Python, SQL, and big data platforms, with a focus on enabling data-driven decision-making.
 
 😄 **My pronouns are:** He/Him/His
 
