@@ -2,7 +2,7 @@
 
 ## Thanks for stopping by! Here's a little bit about myself...
 
-I am a Senior Data Engineer  with over 5+ years of hands-on experience building end-to-end data pipelines and business intelligence solutions. I have a strong foundation in AWS cloud infrastructure, Python, SQL, and big data platforms, with a focus on enabling data-driven decision-making.
+I’m a results-driven Data Analyst with 6+ years of experience delivering actionable insights across healthcare, finance, and supply chain domains. My expertise lies in transforming raw, complex datasets into clear, measurable business outcomes whether it’s reducing hospital readmission rates, improving fraud detection accuracy, or optimizing operational performance.
 
 😄 **My pronouns are:** He/Him/His
 
@@ -23,15 +23,22 @@ I am a Senior Data Engineer  with over 5+ years of hands-on experience building 
 
 📫 **How to reach me:**
 - **Rajesh Shahu [LinkedIn](https://www.linkedin.com/in/rajeshshahu)**
-- 📧 Email: **rajshahu4446@gmail.com**
+- 📧 Email: **notifyraj01@gmail.com**
 
 📝 **Certifications:**
 - **AWS Certified Data Engineer – Associate https://www.credly.com/badges/96161457-b35c-4406-ab29-366da57e0968/linked_in_profile** 
 - **Google Advanced Data Analytics Professional https://www.credly.com/earner/earned/badge/f0e894dd-d2a8-43db-a95c-4ac50fb3e627**
 
 ⚙️ **Technical Skills:**
-- **Programming & Data Processing:** Python (Pandas, NumPy, PySpark), SQL, R, Shell Scripting
-- **Data Engineering:** SQL, NoSQL, PostgreSQL, Hadoop, Kafka, Airflow, Hive, ETL, Apache Spark, Data Warehouse, Big Data, Data Pipelines, Data Modeling, Data Manipulation & Processing, Data Architecture, Kubernetes, Docker, Terraform, DBMS, RDBMS, CI/CD, Test Automation, DBT, Snowflake.
-- **Data Analytics & Visualization:** MySQL, Microsoft SQL Server,  Regression Analysis, Statistical Analysis, Predictive Modeling, A/B Testing, Exploratory Data Analysis (EDA), Key Performance Indicators (KPIs), Tableau, Power BI, Excel (VBA, Macros, Pivot Tables), Scikit-learn, Matplotlib, Seaborn, Google Looker.
-- **Cloud Platforms:** AWS (S3, EC2, Glue, Redshift, Lambda, Kinesis, EMR, DynamoDB), Google Cloud (BigQuery, GCS, Google App Script), Azure (Data Lake, Data Factory).
+- **Programming Languages:** Python (Pandas, NumPy, PySpark), SQL, R, Shell Scripting
+- **Methodologies:** Methodologies:	SDLC, Agile, Waterfall
+- **Data Analysis:** Data Analysis: 	Exploratory Data Analysis (EDA), Descriptive & Inferential Statistics, Hypothesis Testing, ANOVA, Regression Analysis, Statistical Analysis, Data Mining, Data Cleaning, ETL Processes, Quantitative Analysis, A/B Testing, Cohort Analysis, Funnel Analysis.
+- **Packages:** Packages: 	NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, Seaborn, dplyr, ggplot2
+- **Data Visualization:** Tableau, Power BI, Looker, Excel Dashboards, Advanced Excel (VLOOKUP, Pivot Tables, Macros, Power Query), SRSS
+- **IDEs:** Visual Studio Code, PyCharm, Jupyter Notebook, IntelliJ
+- **Databases:** Database:	SQL Server, MySQL, PostgreSQL, Oracle, Snowflake, MongoDB
+- **Cloud Platforms:** Cloud Platform:	Amazon Web Services (AWS), Google Cloud Platform (GCP).
+- **Other Technical Skills:** Other Technical Skills: 	SSIS, SAS, Alteryx, Machine Learning Algorithms, ETL\ELT Tools,  Apache Airflow, dbt, Data Wrangling, Data Cleaning, Data Transformation, Data Warehousing, Data Lakes, Data Storytelling, Executive Presentations, Technical Documentation, Cross-functional Collaboration, KPI Development, Metric Definition, Business Requirements Analysis, Executive Reporting, Requirements Gathering, Data Storytelling, HIPAA, SOX, GDPR (basic understanding), Data Governance, Data Privacy, Healthcare Analytics, Financial Reporting, Insurance Analytics, Sales & Marketing Analytics, JIRA, Confluence, Trello, Git, Github.
+- **Soft Skills:** Time Management, Leadership, Strategy Planning, Problem-Solving, Negotiation, Decision-Making, Documentation and Presentation, Analytical Thinking, Attention to Detail, verbal and written communication.
+- **Operating System:** Operating Systems:	Windows, Linux, Mac OS
 
